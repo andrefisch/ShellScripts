@@ -1,0 +1,212 @@
+1	METRYKA, Karol	PENNSFC / NYAC 	New Jersey 	USA 	A15 	A16 
+2	DODDO, Andrew	PETERWE / FENCERS 	Metro NYC 	USA 	A15 	A16 
+3T	WALKER, Christopher	NELLYA 	Georgia 	USA 	A15 	A16 
+3T	WILLIAMS, Grant	NYU / NYAC 	Georgia 	USA 	A15 	A16 
+5	NATANZON, Benjamin	MANHATTAN 	Metro NYC 	USA 	A16 	 
+6	MERCHANT, Julian	PENN / MANHATTAN 	Metro NYC 	USA 	A15 	A16 
+7	LIANG, Calvin	COLUMBF / NYAC 	Metro NYC 	USA 	A15 	A16 
+8	THOMPSON, Khalil	UNAT / PSU 	Metro NYC 	USA 	A14 	A16 
+9	BAK, Mikolaj	NYU / NYAC 	New Jersey 	USA 	A16 	 
+10	COHEN, Josef	RIFAC 	New England 	USA 	B15 	B16 
+11	JONES, Ian	LAGUNA F.C. 	Orange Coast 	USA 	A13 	 
+12T	SARON, Mitchell	BERGEN F.C. 	New Jersey 	USA 	A15 	 
+12T	LIN, Lucas	KAIRFA 	North TX 	USA 	B15 	B16 
+14	KWAK, Daniel	AGFC 	Southern CA 	USA 	A15 	 
+15	KWONG, Samuel	CARDINAL 	Central CA 	USA 	A15 	 
+16	GOODE, Matthew	LONESTAR / HUSARFS 	North TX 	USA 	B16 	 
+17	GREEN, Adam	CAPIFA 	Capitol 	USA 	A16 	 
+18	HONG, Elijah	CHENEY 	Tennessee 	USA 	B15 	 
+19	SOLOMON, Daniel	MISSION F.C. 	Long Island 	USA 	A15 	 
+20	WALTER, Agoston	ZETAF 	New England 	USA 	A15 	 
+21	ZHANG, Eric	BOSTN FNCNG. CLB. 	New England 	USA 	B12 	 
+22T	SKEETE, Kamar	NELLYA 	Georgia 	USA 	A15 	 
+22T	FARFAN-BAYERL, Inti	F.A. DENV. 	Colorado 	USA 	A15 	 
+24	OH, Jason	MANHATTAN 	Metro NYC 	USA 	A15 	 
+25	SWARTZ, Roscoe	BERGEN F.C. 	New Jersey 	USA 	B15 	 
+26	MULLENNIX, Ethan	HLBRSDT 	Northern CA 	USA 	B15 	 
+27	PUCCIO, Gregory	NJIT / DURKFA 	New Jersey 	USA 	A15 	 
+28	LEWICKI, Matthew	DURKFA 	New Jersey 	USA 	A15 	 
+29	TORDO, John GARRETT	ZETAF 	New England 	USA 	C15 	 
+30	VIDOVSZKY, Robert	PFA 	Mt. Valley 	USA 	A15 	 
+31	CENTANNI, Salvatore	CAPIFA 	Capitol 	USA 	A15 	 
+32	STONE, Ben	MANHATTAN 	Metro NYC 	USA 	B15 	 
+33	SIERADZKY, Dawson	BERGEN F.C. 	New Jersey 	USA 	A15 	 
+34	MARCUS, Benjamin	FAO 	Columbus OH 	USA 	B16 	 
+35	SUN, Andrew	NELLYA 	Georgia 	USA 	A16 	 
+36	PEI, Eric	HLBRSDT 	Northern CA 	USA 	B16 	 
+37	HEINTZ, Evin	LONESTAR / SALLEMAURO 	Gulf Coast 	USA 	B16 	 
+38	PFLUEGER, Chase	F.A. DENV. 	Colorado 	USA 	A15 	 
+39	CHOI, Warren	 	S. Jersey 	USA 	A14 	 
+40	Fencer Excluded	 	 	 	 	 
+41	IBELING, Daniel	 	Minnesota 	USA 	C15 	 
+42	MILLS, Connor	MANHATTAN 	S. Jersey 	USA 	A15 	 
+43	PARK, Justin	BERGEN F.C. 	New Jersey 	USA 	C16 	 
+44	CLARKSON, Cole	HIGH DESRT F.A. 	Nevada 	USA 	B16 	 
+45	DEGEORGES, Cole	NJIT / DURKFA 	New Jersey 	USA 	B15 	 
+46	GUY, Philippe	SPARTAK 	San Diego 	USA 	A15 	 
+47	YUNGEBERG, Tyler	F.A. DENV. 	Colorado 	USA 	C16 	 
+48	DALLI, Jeffrey	STANFC / CARDINAL 	Central CA 	USA 	A15 	 
+49	DECAIRE, Duncan	PFA 	Mt. Valley 	USA 	A15 	 
+50	GEORGE, Firoz	FENCERS 	West-Rock 	USA 	C15 	 
+51	MISOGAS, Matthew	LAGUNA F.C. 	Orange Coast 	USA 	A15 	 
+52	LORTKIPANIDZE, Nickoloz	FENCERS 	West-Rock 	USA 	D15 	 
+53	CAMPBELL, Colin	CAPIFA 	Capitol 	USA 	A15 	 
+54	BAUMANN, Jakob	PENINSULA 	Northern CA 	USA 	B15 	 
+55T	SHIN, Richard J.H.	AGFC 	Southern CA 	USA 	B15 	 
+55T	NIKOLAI IV, William	USAFC 	Utah-S.Idaho 	USA 	B14 	 
+57	SZETO, Brian	ZETAF 	New England 	USA 	B15 	 
+58	WOOD, Vance	MANHATTAN 	Metro NYC 	USA 	B14 	 
+59	TURNER, Gavin	PSU 	New England 	USA 	A15 	 
+60	KANARY, Logan	F.A. DENV. 	Colorado 	USA 	B15 	 
+61	DEL VECCHIO, Nicolas	CAPIFA 	Capitol 	USA 	A15 	 
+62	NO, Nicholas	PFA 	Mt. Valley 	USA 	A16 	 
+63	FISHER, Henry	NELLYA 	Georgia 	USA 	A15 	 
+64	SANG, Eric	ZFENCINGLA 	Southern CA 	USA 	C16 	 
+65	SLAWINSKI, Thomas	MANHATTAN 	Metro NYC 	USA 	A15 	 
+66	DOLEGIEWICZ, Filip	MFA 	Illinois 	USA 	A15 	 
+67T	ASCH, Jacob	DCFC 	Virginia 	USA 	A16 	 
+67T	REKIETA, Patrick	F.A. DENV. 	North TX 	USA 	C15 	 
+69	MATEJA, Maksymilian	MFA 	Illinois 	USA 	B15 	 
+70	GULATI, Thejas	U.C.S.D. / PFA 	Mt. Valley 	USA 	A15 	 
+71	BELSER, Bryce	PETERWE / FENCERS 	New Jersey 	USA 	C15 	 
+72	MARIN, Aidan	F.C. - AZ 	Arizona 	USA 	C16 	 
+73	POLINSKI, Adrian	MANHATTAN 	New Jersey 	USA 	C15 	 
+74	GAO, Kevin	MANHATTAN 	New Jersey 	USA 	B15 	 
+75	ALVAREZ, JAROD	LAGUNA F.C. 	San Diego 	USA 	D16 	 
+76	LEVINE, Ethan	AFFA 	New Jersey 	USA 	C14 	 
+77	LEONELLI, Alexandre	TEAMTOUCHE / SPARTAK 	San Diego 	USA 	B14 	 
+78	BENICEWICZ, Zack	SHERIDAN 	Connecticut 	USA 	C15 	 
+79	SO, Mitchell	LONESTAR / STMARKS 	North TX 	USA 	B15 	 
+80	MATHEWS, Stephen	F.A. DENV. 	Colorado 	USA 	B15 	 
+81T	LU, Berwyn	ARSEFC 	Georgia 	USA 	C14 	 
+81T	JULIEN, William A	SON 	Gold Coast 	USA 	B15 	 
+83	SLAVIN, Ben	BOSTN FNCNG. CLB. 	New England 	USA 	B15 	 
+84	SMITH, Jared	AGFC 	Orange Coast 	USA 	C16 	 
+85	ROTHENBERG, Matthew	AFFA / DURKFA 	New Jersey 	USA 	C16 	 
+86	GAVIETA, Matthew	ISLAND NY 	Long Island 	USA 	D15 	 
+87	LATHAM, Ian	LAIFC 	Southern CA 	USA 	U 	 
+88	LU, Aaron	PENINSULA 	Northern CA 	USA 	C15 	 
+89	GETS, Matthew	BERGEN F.C. 	New Jersey 	USA 	C16 	 
+90	RICHARDS II, Julian	BERGEN F.C. 	Huds-Berks 	USA 	D15 	 
+91	FERNANDES, Aksel	NELLYA 	Georgia 	USA 	D16 	 
+92	DANIELS, Douglas	CHARL. FNCNG. ALL. / RIFAC 	Virginia 	USA 	B15 	 
+93	WALKER III, Alex	NELLYA 	Georgia 	USA 	A14 	 
+94	WISNIOWSKI, Michal	AFFA 	New Jersey 	USA 	C15 	 
+95	RITCHEY, Connor	CHAPELHILL / F.A. DENV. 	Colorado 	USA 	A15 	 
+96	LOBROW, Alex	AFFA 	New Jersey 	USA 	C15 	 
+97	ATTIG, Will	OREGONFA 	Oregon 	USA 	C15 	 
+98	LOPEZ, Misael	PDX 	Oregon 	USA 	B15 	 
+99	LINDER, James	F.C. - AZ 	Arizona 	USA 	C15 	 
+100	CONTRERAS, Alessandro	CAPIFA 	Capitol 	USA 	B15 	 
+101	AARON, Nicholas	PDX 	Oregon 	USA 	D16 	 
+102	ROUNDS, Connor	FENCERS / CDFS 	Huds-Berks 	USA 	B15 	 
+103	LI, Andrew	RTF 	N. Carolina 	USA 	D15 	 
+104	PREVEY-SULLIVAN, Owen	FENCERS 	Connecticut 	USA 	B15 	 
+105	PETWAY, Justin	PETERWE / FENCERS 	New Jersey 	USA 	B15 	 
+106T	BURKE, William	MANHATTAN 	Metro NYC 	USA 	B15 	 
+106T	ZHANG, Andrew	PFA 	Mt. Valley 	USA 	A15 	 
+108	CALLAHAN, Kevin	BERGEN F.C. 	New Jersey 	USA 	A15 	 
+109	FOSADO, Alejandro	SAS 	Western WA 	USA 	B15 	 
+110	BIVINS III, George	MANHATTAN 	Metro NYC 	USA 	C15 	 
+111	MEGENNIS, Robert	FENCERS 	West-Rock 	USA 	C15 	 
+112	BEATY, Chad	DUBOIS FC 	Central PA 	USA 	B15 	 
+113	JOHNSON, Zachary	F.C. - AZ 	Arizona 	USA 	A15 	 
+114	COHEN, Samuel	DCFC 	Capitol 	USA 	C15 	 
+115	FLORES, Gerardo	HLBRSDT 	Northern CA 	USA 	A15 	 
+116	SCHMITT, Trenton	PFA 	Mt. Valley 	USA 	C15 	 
+117	HARE, John	RIFAC 	New England 	USA 	B15 	 
+118	MATAWARAN, Joseph	LONESTAR 	North TX 	USA 	C16 	 
+119	WITEK, Bernard	NYAC / DURKFA 	Metro NYC 	USA 	D15 	 
+120	XIE, Andrew	CAPIFA 	Capitol 	USA 	C15 	 
+121	SCHOLL, Ben	OREGONFA 	Oregon 	USA 	A15 	 
+122	ROTENSTEIN, Leon	ZETAF 	New England 	USA 	B15 	 
+123	ALVARADO, William	BERGEN F.C. 	New Jersey 	USA 	D15 	 
+124T	RABINOWITZ, Benjamin	 	N. Carolina 	USA 	C15 	 
+124T	MURTAUGH, Arthur	KAIRFA / INTEFAOD 	North TX 	USA 	C16 	 
+126	JIN, William	ISLAND NY 	Long Island 	USA 	C15 	 
+127	BERNEY, Kyle	BRANDEIS / FASF 	Ark-La-Miss 	USA 	C13 	 
+128	ZHAO, Raymond	NELLYA 	Georgia 	USA 	B15 	 
+129	LEE, Kevin	KAIRFA 	North TX 	USA 	C15 	 
+130	WALKER, Dalton	COBRA 	New Jersey 	USA 	C15 	 
+131	HOOGENDOORN, Sem	MINN. SWD. CLB. 	Minnesota 	USA 	C15 	 
+132	JONES, Alexander	AGFC 	Southern CA 	USA 	D16 	 
+133	MCBRIDE, Jackson	F.C. - AZ 	Arizona 	USA 	C15 	 
+134	MACKIEWICZ, Nicholas	ZETAF 	New England 	USA 	C15 	 
+135	DEAK, Max	TEAMTOUCHE 	San Diego 	USA 	C15 	 
+136	FANG, David	OREGONFA 	National 	USA 	D15 	 
+137	LIM, Sanha	REDSTAR / MAINWST 	Illinois 	USA 	C15 	 
+138	MAHONEY III, Donal	ISLAND NY 	Long Island 	USA 	D15 	 
+139	HOFING, Benjamin	MANHATTAN 	Metro NYC 	USA 	D15 	 
+140	BROWN, Nathan	USAFC 	Utah-S.Idaho 	USA 	D15 	 
+141T	WANG, Ethan	W.F.A. 	Western WA 	USA 	D15 	 
+141T	BUTEAU, Mitchell	MANHATTAN 	Metro NYC 	USA 	C14 	 
+143	DONOS, Ryan	 	Arizona 	USA 	C15 	 
+144	HUEY, Brandon	HLBRSDT 	Northern CA 	USA 	C15 	 
+145	BLACKMON, Luke	NELLYA 	Georgia 	USA 	C15 	 
+146	COTTINGHAM III, Robert	PETERWE 	New Jersey 	USA 	B15 	 
+147	KIM, Brian	BERGEN F.C. 	New Jersey 	USA 	D15 	 
+148	LANDAU, Nathaniel	CAPIFA 	Capitol 	USA 	C15 	 
+149	AMEZQUITA, Juan	SAS 	Western WA 	USA 	C15 	 
+150	MENDOZA, Jacob	CARDINAL 	Central CA 	USA 	D15 	 
+151T	WHITNEY, Kirk	FAO 	Columbus OH 	USA 	B15 	 
+151T	NIMMER, Erik	BSC-NY 	Huds-Berks 	USA 	C15 	 
+153	SHURYGIN, Ariel	PDX 	Oregon 	USA 	D15 	 
+154T	GRATHWOL-SEAR, Sebastian	SAS 	Western WA 	USA 	C15 	 
+154T	MILLS, Graeme	 	New England 	USA 	C15 	 
+156	LI, Jonathan	FASF 	Ark-La-Miss 	USA 	E14 	 
+157	RAHMAN, Haadis	 	Georgia 	USA 	D15 	 
+158	HAYES, Matthew	COLUMBUS F&F 	Columbus OH 	USA 	D15 	 
+159	LEWIS, Dylis	KOSFA/NC 	N. Carolina 	USA 	C15 	 
+160T	PYATETSKY, Shawn	BERGEN F.C. 	New Jersey 	USA 	C15 	 
+160T	PRESSENDO, Steven	CHARL. FNCNG. ALL. / RCHMOND 	Virginia 	USA 	D15 	 
+162	KIM, Shawn	LAGUNA F.C. 	Orange Coast 	USA 	C15 	 
+163	DOUGALL, Tyson	PDX 	Oregon 	USA 	C15 	 
+164	GRUBE, Sterling	THRUST F.A. 	West-Rock 	USA 	C15 	 
+165	LIU, Jesse	NELLYA 	Georgia 	USA 	C15 	 
+166	KOKOSINSKI, Eryk	MFA 	Illinois 	USA 	C15 	 
+167	SPILLNER, Zachary	F.A. DENV. 	Colorado 	USA 	B15 	 
+168	HEIST, Brian	IFA 	S. Jersey 	USA 	U 	 
+169	ROHAN, Jack	MISSION F.C. 	Long Island 	USA 	C15 	 
+170	LEMAY, Brian	MFA 	Illinois 	USA 	C15 	 
+171	TESCHE, Askhat	DUKE CITY 	New Mexico 	USA 	E15 	 
+172	MURPHY, Blake	NELLYA / NOTREDAME 	Georgia 	USA 	B13 	 
+173	OSTER, Keegan	HANGTOWN 	Mt. Valley 	USA 	C15 	 
+174T	DITULLIO, Frank	RAFA 	Columbus OH 	USA 	C15 	 
+174T	KULDELL, Spencer	BOSTN FNCNG. CLB. 	New England 	USA 	D15 	 
+176T	GORDON IV, James	TEAMTOUCHE 	San Diego 	USA 	E15 	 
+176T	MICHELL, Bailey	INTL. F.C. 	New England 	USA 	C15 	 
+178T	BERGMAN, Thomas	NYU / NYAC 	West-Rock 	USA 	C15 	 
+178T	BRADFORD, Blake	COLUMBUS F&F 	Columbus OH 	USA 	D15 	 
+178T	FOTIYEV, Alan	STAMFORD F.C. 	Connecticut 	USA 	C15 	 
+181T	WILSON, Roark	CHENEY 	Kentucky 	USA 	D15 	 
+181T	DEVITO, Bradley	BACON ACA. / CANDLE 	Connecticut 	USA 	C15 	 
+183	TAMBURRO, Leonardo	MID-SOUTH 	N. Carolina 	USA 	C15 	 
+184T	DRESSELL, Wiley	RENFENC 	Michigan 	USA 	D15 	 
+184T	MILGRAM, Nathan	CARDINAL 	Central CA 	USA 	D16 	 
+186T	KIRIAKIDI, Fedor	RCHSTER 	Western NY 	USA 	E15 	 
+186T	DINU, Nicholas	LAGUNA F.C. 	Orange Coast 	USA 	D14 	 
+188T	PALURU, Sanjeet	PFA 	Mt. Valley 	USA 	D15 	 
+188T	CONDREN, Levi	OREGONFA / ORIOF 	Oregon 	USA 	C15 	 
+190	WONG, Jacob	IFA 	S. Jersey 	USA 	E15 	 
+191	HAQ, Khaled	CARDINAL 	Central CA 	USA 	U 	 
+192	BERARDI, Luis K	BCFA 	Gulf Coast 	USA 	U 	 
+193	WOOD, Spencer	LAGUNA F.C. 	Orange Coast 	USA 	U 	 
+194	DE BONIS, Dante	L.I. F.C. 	Long Island 	USA 	C15 	 
+195T	PRICE, Jack	BERGEN F.C. 	New Jersey 	USA 	B15 	 
+195T	JEFFRY, Robin	HLBRSDT 	Northern CA 	USA 	B15 	 
+197	GU, Shawn	ARSEFC 	Georgia 	USA 	B15 	 
+198	CHU, Devin	MANHATTAN 	Metro NYC 	USA 	B15 	 
+199	YUAN, Ronald	BIRMNGHM F.C. 	Alabama 	USA 	C15 	 
+200T	CHU, Cameron	MANHATTAN 	Metro NYC 	USA 	C14 	 
+200T	ENGLISH, Aidan	FASF / CMFC 	Ark-La-Miss 	USA 	E15 	 
+202T	PRIEST, Leighton	RENFENC 	Michigan 	USA 	D15 	 
+202T	DESMAN, Jacob	IFA 	S. Jersey 	USA 	E15 	 
+204T	BRZEGOWY, Jacob	BLOOMINGFC 	Indiana 	USA 	U 	 
+204T	YAN, Jack	SECA 	National 	USA 	U 	 
+204T	HOOKASSIAN, Austin	 	Tennessee 	USA 	E15 	 
+207T	TONG, Qilin	NELLYA 	Georgia 	USA 	E15 	 
+207T	FELBINGER, Jakeob	 	San Bern'do 	USA 	U 	 
+209	CHIASSON, Jeremy	RED STICK 	Louisiana 	USA 	D15 	 
+210T	MCNULTY, Jack	 	Huds-Berks 	USA 	U 	 
+210T	WEINGER, Samuel	HHFG 	San Bern'do 	USA 	U 	 
+210T	HARDISON, Terry (Reno)	CHENEY 	Tennessee 	USA 	E16 	 
